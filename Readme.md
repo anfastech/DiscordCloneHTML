@@ -1,9 +1,1 @@
-Hey this commiting
-Hey this commiting
-Hey this commiting
-Hey this commiting
-Hey this commiting
-Hey this commiting
-Hey this commiting
-Hey this commiting
-12 time
+readme - This is un completed Discord clone app
